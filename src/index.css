@@ -1,0 +1,24 @@
+.nav-item .nav-link:hover{
+  color: rgb(13,202,240);
+}
+.navbar-brand{
+  padding-left: 12px;
+  padding-right: 370px;
+  font-size: 25px;
+}
+.nav-link{
+  font-size: 22px;
+}
+.d-flex{
+  padding-right: 80px;
+}
+.form-check{
+  padding-right: 10px;
+  font-size: 20px;
+}
+.info{
+  font-size: 18px;
+}
+.container{
+  margin-bottom: 20px;
+}
